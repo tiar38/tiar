@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.164,H:\Documents\Embarcadero\Studio\Projects\Unit2.dfm=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,=H:\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,H:\Documents\Embarcadero\Studio\Projects\Unit2.pas=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.209,=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,H:\Documents\Embarcadero\Studio\Projects\Unit1.dfm=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,=\\apetfs\ПКС-5\Иванов_АЕ\Экзамен\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,H:\Documents\Embarcadero\Studio\Projects\Project1.dproj=J:\Freelancer\Дневное\2018-2019\Экзамен\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.118,=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.383,=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,H:\Documents\Embarcadero\Studio\Projects\Unit1.pas=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,=H:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,=J:\Freelancer\Дневное\2018-2019\Экзамен\Unit4.pas</Transaction>
+  </Transactions>
+</BorlandProject>
